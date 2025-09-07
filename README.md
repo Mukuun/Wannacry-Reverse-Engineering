@@ -1,6 +1,4 @@
-Of course. Here is your WannaCry analysis formatted as a professional report suitable for a GitHub README. I've structured it with clear headings, organized the content for readability, and highlighted key technical details.
 
------
 
 # WannaCry Reverse Engineering Analysis
 
